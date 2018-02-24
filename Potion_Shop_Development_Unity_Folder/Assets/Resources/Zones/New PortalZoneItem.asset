@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89ccf6a6caf7fb149a772465108a9b89, type: 3}
+  m_Name: New PortalZoneItem
+  m_EditorClassIdentifier: 
+  LocationID: 0
+  NameOfLocation: 1
+  LocationMAINGraphic: {fileID: 21300000, guid: fec404ade64878345b83f57ec0007733,
+    type: 3}
+  Location1Name: 1A
+  Location1Graphic: {fileID: 21300000, guid: fec404ade64878345b83f57ec0007733, type: 3}
+  CommonLocation_1:
+  - {fileID: 11400000, guid: bcae951db4185914ca7475814435ae16, type: 2}
+  - {fileID: 11400000, guid: eb8de627b9c85a9438a22d90cc40a060, type: 2}
+  - {fileID: 11400000, guid: 3bca860f8407a0b498b17bca42bc5970, type: 2}
+  - {fileID: 11400000, guid: bb9e1abf6d6655444a08ad5a5f08e534, type: 2}
+  - {fileID: 11400000, guid: e3aba969ad8d11740b4910ea5f013e72, type: 2}
+  UncommonLocation_1:
+  - {fileID: 11400000, guid: bcae951db4185914ca7475814435ae16, type: 2}
+  - {fileID: 11400000, guid: eb8de627b9c85a9438a22d90cc40a060, type: 2}
+  - {fileID: 11400000, guid: 3bca860f8407a0b498b17bca42bc5970, type: 2}
+  - {fileID: 11400000, guid: bb9e1abf6d6655444a08ad5a5f08e534, type: 2}
+  - {fileID: 11400000, guid: e3aba969ad8d11740b4910ea5f013e72, type: 2}
+  RareLocation_1:
+  - {fileID: 11400000, guid: bcae951db4185914ca7475814435ae16, type: 2}
+  - {fileID: 11400000, guid: eb8de627b9c85a9438a22d90cc40a060, type: 2}
+  - {fileID: 11400000, guid: 3bca860f8407a0b498b17bca42bc5970, type: 2}
+  - {fileID: 11400000, guid: bb9e1abf6d6655444a08ad5a5f08e534, type: 2}
+  - {fileID: 11400000, guid: e3aba969ad8d11740b4910ea5f013e72, type: 2}
+  Location2Name: 1B
+  Location2Graphic: {fileID: 21300000, guid: fec404ade64878345b83f57ec0007733, type: 3}
+  CommonLocation_2: []
+  UncommonLocation_2: []
+  RareLocation_2: []
+  Location3Name: 1C
+  Location3Graphic: {fileID: 21300000, guid: fec404ade64878345b83f57ec0007733, type: 3}
+  CommonLocation_3: []
+  UncommonLocation_3: []
+  RareLocation_3: []
+  LocationDescription: 
+  TravelTimeLoc1: 5
+  TravelTimeLoc2: 10
+  TravelTimeLoc3: 15

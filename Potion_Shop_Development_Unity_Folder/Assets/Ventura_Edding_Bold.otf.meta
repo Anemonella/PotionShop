@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b46af0604ad14a84697e6bd2f0972ede
+timeCreated: 1507936044
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ventura Edding
+  fontNames:
+  - Ventura Edding
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3530e482bfdbab44c832f9891fae77f6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

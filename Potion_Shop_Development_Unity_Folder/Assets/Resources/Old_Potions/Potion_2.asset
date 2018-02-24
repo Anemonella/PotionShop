@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74ee0ee7ad11c8641bf4db3370890250, type: 3}
+  m_Name: Potion_2
+  m_EditorClassIdentifier: 
+  PotionID: 2
+  PotionName: Potion_2
+  PotionDesc: 
+  PotionGraphic: {fileID: 21300000, guid: b764aa81d07478945bd99815213198a4, type: 3}
+  RecipeIngredient1: {fileID: 11400000, guid: eb8de627b9c85a9438a22d90cc40a060, type: 2}
+  RecipeIngredient2: {fileID: 11400000, guid: 3bca860f8407a0b498b17bca42bc5970, type: 2}
+  RecipeIngredient3: {fileID: 11400000, guid: bb9e1abf6d6655444a08ad5a5f08e534, type: 2}
+  RecipeIngredient4: {fileID: 11400000, guid: b4881baf9e519044eb11019a33fa3f6e, type: 2}
+  RecipeIngredient5: {fileID: 11400000, guid: b4881baf9e519044eb11019a33fa3f6e, type: 2}
+  Recipe:
+  - {fileID: 11400000, guid: eb8de627b9c85a9438a22d90cc40a060, type: 2}
+  - {fileID: 11400000, guid: 3bca860f8407a0b498b17bca42bc5970, type: 2}
+  - {fileID: 11400000, guid: bb9e1abf6d6655444a08ad5a5f08e534, type: 2}
+  Requests:
+  - Request 1 for Potion 2
+  - Request 2 for Potion 2
+  - Request 3 for Potion 2
+  - Request 4 for Potion 2
+  - Request 5 for Potion 2
+  BrewingTime: 10
